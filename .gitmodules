@@ -1,0 +1,6 @@
+[submodule "repo/potree"]
+	path = repo/potree
+	url = git@github.com:potree/potree.git
+[submodule "repo/PotreeConverter"]
+	path = repo/PotreeConverter
+	url = git@github.com:potree/PotreeConverter.git
